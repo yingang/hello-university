@@ -1,4 +1,4 @@
-# hello-university
+# 你好，大学！
 
 双一流建设高校：
 * [世界一流大学建设高校](world-class-universities.md)
